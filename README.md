@@ -1,0 +1,4 @@
+NIM GAME USING REINFORCEMENT LEARNING
+
+run as:
+python play.py
